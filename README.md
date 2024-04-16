@@ -1,0 +1,1 @@
+# Afișarea pattern-urilor
